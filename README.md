@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pietro Gattuso</h1>
-<h3 align="center">Software Developer & Computer Science Student 
-  💻Currently completing my Bachelor's Degree in Computer Science at the University of Calabria (Unical). 
+<h3 align="center">Software Developer & Computer Science Student \\
+  Currently completing my Bachelor's Degree in Computer Science at the University of Calabria (Unical). \\
   I am passionate about building robust full-stack applications and creating intuitive user experiences.</h3>
   
 <h3 align="left">Languages and Tools:</h3>
